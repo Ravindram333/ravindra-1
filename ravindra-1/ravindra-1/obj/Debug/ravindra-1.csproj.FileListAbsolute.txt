@@ -1,0 +1,11 @@
+G:\devops\ravindra-1\ravindra-1\ravindra-1\bin\Debug\ravindra-1.exe.config
+G:\devops\ravindra-1\ravindra-1\ravindra-1\bin\Debug\ravindra-1.exe
+G:\devops\ravindra-1\ravindra-1\ravindra-1\bin\Debug\ravindra-1.pdb
+G:\devops\ravindra-1\ravindra-1\ravindra-1\obj\Debug\ravindra-1.csproj.AssemblyReference.cache
+G:\devops\ravindra-1\ravindra-1\ravindra-1\obj\Debug\ravindra-1.csproj.SuggestedBindingRedirects.cache
+G:\devops\ravindra-1\ravindra-1\ravindra-1\obj\Debug\ravindra_1.Form1.resources
+G:\devops\ravindra-1\ravindra-1\ravindra-1\obj\Debug\ravindra_1.Properties.Resources.resources
+G:\devops\ravindra-1\ravindra-1\ravindra-1\obj\Debug\ravindra-1.csproj.GenerateResource.cache
+G:\devops\ravindra-1\ravindra-1\ravindra-1\obj\Debug\ravindra-1.csproj.CoreCompileInputs.cache
+G:\devops\ravindra-1\ravindra-1\ravindra-1\obj\Debug\ravindra-1.exe
+G:\devops\ravindra-1\ravindra-1\ravindra-1\obj\Debug\ravindra-1.pdb
