@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f756a8cb-65ad-4b3a-af6c-757a4a9cdca6": {
+      "ProjectGuid": "f756a8cb-65ad-4b3a-af6c-757a4a9cdca6",
+      "DisplayName": "ravindra-1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
